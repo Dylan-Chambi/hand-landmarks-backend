@@ -11,7 +11,7 @@ Tarea de guardar los landmarks de una imagen subida al servidor, guardandolos en
 ```bash
 pip install -r requirements.txt
 ```
-o
+ó
 ```bash
 pip3 install -r requirements.txt
 ```
@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 ```bash
 python main.py
 ```
-o
+ó
 ```bash
 python3 main.py
 ```
@@ -34,3 +34,12 @@ Hay 2 endpoints:
 
 * /upload_photo: (POST) Subir una imagen y guardar los landmarks en la base de datos.
 * /get_landmarks: (GET) Obtener los landmarks de una imagen en formato JSON.
+
+## Informacion del alumno
+
+- Nombre: Dylan Chambi
+- Codigo: 55662
+- Semestre: 6
+- Carrera: Ingenieria de Sistemas Computacionales
+- Materia: Infografia
+- Docente: Ing. Jose Laruta
