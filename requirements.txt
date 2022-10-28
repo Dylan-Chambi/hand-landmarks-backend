@@ -1,0 +1,7 @@
+fastapi
+tinydb
+uvicorn
+opencv-python
+mediapipe
+numpy
+Pillow
