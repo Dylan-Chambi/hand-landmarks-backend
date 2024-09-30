@@ -1,6 +1,6 @@
-# Tarea Extra Infografia
+# hand Landmarks Backend
 
-Tarea de guardar los landmarks de una imagen subida al servidor, guardandolos en una base de datos y permitiendo obtenerlos en formato JSON.
+Backend para obtener los landmarks de una imagen subida al servidor, guardarlos en una base de datos y permitiendo obtenerlos en formato JSON.
 
 ## Requerimientos
 
@@ -34,12 +34,3 @@ Hay 2 endpoints:
 
 * /upload_photo: (POST) Subir una imagen y guardar los landmarks en la base de datos.
 * /get_landmarks: (GET) Obtener los landmarks de una imagen en formato JSON.
-
-## Informacion del alumno
-
-- Nombre: Dylan Chambi
-- Codigo: 55662
-- Semestre: 6
-- Carrera: Ingenieria de Sistemas Computacionales
-- Materia: Infografia
-- Docente: Ing. Jose Laruta
